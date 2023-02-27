@@ -1,14 +1,15 @@
 import java.util.Scanner;
 
 /**
-* This program receives the meal from the user.
-* It also gets the number of items and it
-* calculates how long they should heat it up.
+* This program receives a number from the.
+* user and tells them if they guessed the right
+* number. If they didn't the program loops
+* till they do.
 *
 * @author Melody  Berhane
 * @version 1.0
 *
-* @since   2023-02-22
+* @since   2023-02-26
 */
 
 public final class DiceGame {
